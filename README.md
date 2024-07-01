@@ -12,5 +12,5 @@ This is a simple Node.js application that uses Redis for storing the number of v
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/node-redis-app.git
-cd node-redis-app
+git clone https://github.com/your-username/visits-redis-app.git
+cd visits-redis-app
