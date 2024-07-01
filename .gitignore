@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Docker files
+docker-compose.yml
+Dockerfile
+
+# Environment variables
+.env
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
